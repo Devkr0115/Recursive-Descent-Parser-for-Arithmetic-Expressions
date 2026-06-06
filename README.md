@@ -92,8 +92,8 @@ Dev
 ## Sample Output
 
 Example execution showing tokenization, parse tree generation, symbol table updates, and expression evaluation.
-<img width="1189" height="546" alt="Screenshot 2026-06-06 at 10 04 45" src="https://github.com/user-attachments/assets/2a91b873-c05f-4998-bf2a-975398cd6fc0" />
-<img width="1193" height="782" alt="Screenshot 2026-06-06 at 10 04 19" src="https://github.com/user-attachments/assets/b0a24361-9a60-467e-b434-698e3b22b063" />
-<img width="1192" height="784" alt="Screenshot 2026-06-06 at 10 03 30" src="https://github.com/user-attachments/assets/da5515fb-971f-44f1-9cd3-87403aa000cb" />
-<img width="1188" height="783" alt="Screenshot 2026-06-06 at 10 03 05" src="https://github.com/user-attachments/assets/d39f88c8-ac8f-4eac-a865-29664083e06e" />
 <img width="1191" height="802" alt="Screenshot 2026-06-06 at 10 00 59" src="https://github.com/user-attachments/assets/87ffd1a3-d104-4ed8-be73-1ceaacecb344" />
+<img width="1188" height="783" alt="Screenshot 2026-06-06 at 10 03 05" src="https://github.com/user-attachments/assets/d39f88c8-ac8f-4eac-a865-29664083e06e" />
+<img width="1192" height="784" alt="Screenshot 2026-06-06 at 10 03 30" src="https://github.com/user-attachments/assets/da5515fb-971f-44f1-9cd3-87403aa000cb" />
+<img width="1193" height="782" alt="Screenshot 2026-06-06 at 10 04 19" src="https://github.com/user-attachments/assets/b0a24361-9a60-467e-b434-698e3b22b063" />
+<img width="1189" height="546" alt="Screenshot 2026-06-06 at 10 04 45" src="https://github.com/user-attachments/assets/2a91b873-c05f-4998-bf2a-975398cd6fc0" />
