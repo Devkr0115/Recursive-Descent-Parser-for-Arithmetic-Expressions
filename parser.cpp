@@ -317,6 +317,3 @@ int main(int argc,char* argv[]){
 
     return 0;
 }
-
-//g++ parser.cpp -o parser
-//./parser program.txt
